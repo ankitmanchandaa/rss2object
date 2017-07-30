@@ -11,6 +11,15 @@
     "url": "git+https://github.com/ankitmanchandaa/rss2object.git"
   },
   "author": "Ankit Manchanda",
+  "keywords": [
+    "rss2object",
+    "rss",
+    "rss2json",
+    "feed parser",
+    "feed-reader",
+    "feedreader",
+    "feed reader"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ankitmanchandaa/rss2object/issues"
