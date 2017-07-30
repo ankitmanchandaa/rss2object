@@ -79,13 +79,13 @@ module.exports = {
     if (channel.lastBuildDate) {
       rss.lastBuildDate = channel.lastBuildDate[0];
     }
-    if (channel.images) {
+    if (channel.image) {
       var image = {}
-      image.url = channel.images[0].url;
-      image.link = channel.images[0].link;
+      image.url = channel.image[0].url;
+      image.link = channel.image[0].link;
       image.title = channel.image[0].title;
-      image.width = channel.images[0].width;
-      image.height = channel.images[0].height;
+      image.width = channel.image[0].width;
+      image.height = channel.image[0].height;
       rss.image = image;
     }
     if(channel.skipHours){
