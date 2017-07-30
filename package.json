@@ -1,0 +1,19 @@
+{
+  "name": "rss2object",
+  "version": "1.0.0",
+  "description": "To convert RSS Feed URL into JSON format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitmanchandaa/rss2object.git"
+  },
+  "author": "Ankit Manchanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitmanchandaa/rss2object/issues"
+  },
+  "homepage": "https://github.com/ankitmanchandaa/rss2object#readme"
+}
